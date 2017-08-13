@@ -1,0 +1,102 @@
+!#navigation{
+	color: #00b300;
+	font-family: 
+
+}
+div.container{
+	padding-top: 20px;
+}
+#foot{
+      background-color: #231f20;
+      padding-left:100px;
+      padding-top:30px;
+      padding-bottom:20px;
+      !height: 58%
+    }
+    #flogo{
+      padding-top: 0px;
+    }
+    #fdetail{
+      display: flex;
+      !padding-left: 80px;
+      !padding-right:80px;
+      
+    }
+    #fitem{
+      padding-top: 20px;
+      display: inline;
+      margin: 5px;
+      padding-right: 105px;
+    }
+    #fitem h3{
+      font-family: verdana;
+      font-size: 13px;
+      color: #1F9CBB;
+    }
+    #fitem a{
+      font-family: verdana;
+      font-size: 12px;
+      color: white
+    }
+    #fitem p{
+      margin: 2px;
+    }
+    #fitem i{
+      font-size: 15px;
+      color: #1F9CBB;
+      padding-bottom:10px;
+      padding-right: 5px;
+    }
+    #faline i{
+      !font-size: 15px;
+      !color: #1F9CBB;
+      !padding-bottom:10px;
+      padding-right: 20px;
+    }
+    #email{
+      font-family: verdana;
+      font-size: 15px;
+      background-color: #231f20;
+      border-bottom: 2px solid #1F9CBB;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      height: 30px;
+      width: 150px;
+      color: #1F9CBB;
+    }
+    #submit{
+      font-family: verdana;
+      font-size: 13px;
+      background-color:#1F9CBB;
+      border-bottom: none;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      height: 30px;
+      width: 120px;
+      color: #0A0A0A;
+    }
+    #fdetail2{
+      display: flex;
+      !padding-left: 80px;
+      !padding-right:80px;
+      
+    }
+    #fitem2{
+      padding-top: 20px;
+      display: inline;
+      margin: 5px;
+      padding-right: 90px;
+    }
+    #fitem2 h3{
+      font-family: verdana;
+      font-size: 13px;
+      color: #1F9CBB;
+    }
+    #fitem2 p{
+      font-family: verdana;
+      font-size: 12px;
+      color: white;
+      !margin: 2px;
+    }
